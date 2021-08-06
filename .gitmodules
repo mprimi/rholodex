@@ -1,0 +1,3 @@
+[submodule "site/themes/photophobia"]
+	path = site/themes/photophobia
+	url = https://github.com/setsevireon/photophobia.git
