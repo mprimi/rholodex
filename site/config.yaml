@@ -15,5 +15,5 @@ sitemap:
 params:
   favicon: null
   site_logo: null
-  description: Decentralized address book and contact managment system
+  description: Decentralized address book and contact management system
   recent_posts_number: 10
